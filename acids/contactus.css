@@ -1,0 +1,9 @@
+#thankMessage {
+  display: none;
+  color: green;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.text-center{color:  #ffcc00;}
+.form-label, .text{color: white;}
+#location{height: 325px;}

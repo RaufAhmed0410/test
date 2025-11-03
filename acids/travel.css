@@ -1,0 +1,25 @@
+ .advertise-section {
+      padding: 60px 0;
+    }
+    .advertise-card {
+      transition: transform 0.3s, box-shadow 0.3s;
+      border-radius: 15px;
+      overflow: hidden;
+    }
+    .advertise-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    }
+    .modal-header {
+      background-color: #ffcc00 ;
+      color: white;
+    }
+    .thanks-message {
+      display: none;
+      text-align: center;
+      font-size: 1.2rem;
+      color: green;
+      font-weight: 600;
+    }
+    #heading{color:  #ffcc00;}
+    #text{color: white;}
